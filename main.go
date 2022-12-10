@@ -1,8 +1,8 @@
 package main
 
 import (
-	"model/app"
-	"model/config"
+	"github.com/BrunoGehlen/go_api/model/app"
+	"github.com/BrunoGehlen/go_api/model/config"
 )
 
 func main() {

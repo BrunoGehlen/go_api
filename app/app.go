@@ -7,9 +7,9 @@ import (
 
 	"github.com/gorilla/mux"
 	"github.com/jinzhu/gorm"
-	"/home/kahuna/go/model/handler"
-	"/home/kahuna/go/model/model"
-	"/home/kahuna/go/model/config"
+	"github.com/BrunoGehlen/go_api/handler"
+	"github.com/BrunoGehlen/go_api/model"
+	"github.com/BrunoGehlen/go_api/config"
 )
 
 // App has router and db instances
